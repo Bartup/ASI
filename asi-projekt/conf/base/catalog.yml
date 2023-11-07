@@ -1,0 +1,6 @@
+data1:
+	type: pandas.CSVDataSet
+	filepath: data/01_raw/pakwheels_used_cars.csv
+data2:
+	type pandas.CSVDataSet
+	filepath: data/01_raw/pakwheels_used_car_data_v02.csv
